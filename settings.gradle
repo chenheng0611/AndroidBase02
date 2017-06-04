@@ -1,0 +1,6 @@
+include ':day18_menu', ':day18_popupwindow', ':day18_popupwindow_city', ':day18_alertdialog', ':day18_notification', ':day19_broadcast', ':day19_sendbroadcast', ':day19_networkstate', ':day19_service', ':day19_service_data', ':day19_mp3player'
+//include ':day15_handler_thread', ':day15_maintothread'
+//include ':app', ':day8_homework4', ':day9_listview_base', ':day9_listview_simpleadapter', ':day9_listview_baseadapter_myarrayadapter', ':day9_listview_baseadapter_news', ':day9_listview_gift_wk', ':day10_listview_gift_wk2', ':day10_listview_weixin'
+//include ':day11_fragment_base', ':day11_fragment_activity', ':day11_fragment_fragment', ':day11_fragment_fragment_activity', ':day11_fragments_change', ':day12_viewpager_base'
+//include ':day12_viewpager_base', ':day12_gift_banner', ':day12_fragment_viewpager_radiobutton', ':day13_giftsprite', ':day13_pulltorefresh', ':day14_expandablelistview', ':day14_http_post', ':day14_gridview_scrollview', ':day15_handler_post', ':day15_handler_message'
+//include ':pulltorefreshlibrary', ':day13_giftsprite', ':day16_imagecache', ':day17_mybaidumap', ':day17_sharedpreferences', ':day17_file_io', ':day17_sqlite', ':day17_searchhistory', ':day17_contentprovider'

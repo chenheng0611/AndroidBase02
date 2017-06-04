@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/AndroidBase02.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/AndroidBase02.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_alertdialog/day18_alertdialog.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_alertdialog/day18_alertdialog.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_menu/day18_menu.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_menu/day18_menu.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_notification/day18_notification.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_notification/day18_notification.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_popupwindow/day18_popupwindow.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_popupwindow/day18_popupwindow.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_popupwindow_city/day18_popupwindow_city.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day18_popupwindow_city/day18_popupwindow_city.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_broadcast/day19_broadcast.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_broadcast/day19_broadcast.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_mp3player/day19_mp3player.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_mp3player/day19_mp3player.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_networkstate/day19_networkstate.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_networkstate/day19_networkstate.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_sendbroadcast/day19_sendbroadcast.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_sendbroadcast/day19_sendbroadcast.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_service/day19_service.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_service/day19_service.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_service_data/day19_service_data.iml" filepath="$USER_HOME$/Documents/xray_mac/studio_code/AndroidBase02/day19_service_data/day19_service_data.iml" />
+    </modules>
+  </component>
+</project>
